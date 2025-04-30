@@ -1,4 +1,4 @@
-import './style.css'
+import '../styles/style.css'
 
 /**
  * TreeRender - приложение для визуализации текстового представления дерева
@@ -6,4 +6,4 @@ import './style.css'
  */
 
 // Импортируем скрипт с логикой приложения
-import './script'
+import './app'
